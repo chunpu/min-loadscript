@@ -1,10 +1,11 @@
 {
   "name": "min-loadscript",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "simple load script like ga",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"readme": "pretty-readme > readme.md"
   },
   "author": "",
   "license": "ISC"
